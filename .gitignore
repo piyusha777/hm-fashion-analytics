@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Data: raw Kaggle files are not redistributed, processed files are large
+/data/
+*.csv
+!outputs/summary_tables/*.csv
+!dashboard/data/*.csv
+# Customer-level and article-level detail stays local
+outputs/summary_tables/rfm_segments.csv
+outputs/summary_tables/article_performance_top_categories.csv
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Tableau local files
+*.twbr
+*.tmp

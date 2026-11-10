@@ -1,0 +1,7 @@
+segment,customers,median_recency_days,median_purchase_days,mean_purchase_days,median_spend_scaled,mean_spend_scaled,total_spend_scaled,pct_of_customers,pct_of_spend,rule
+Champions,30801,10.0,5.0,6.3973,0.4319,0.5856,18036.5019,11.5,33.5,"R>=4, F>=4, M>=4"
+Loyal Customers,13115,35.0,4.0,4.8682,0.2592,0.3427,4494.3577,4.9,8.4,"F>=4, M>=3"
+New / Promising,58695,14.0,1.0,1.4155,0.0983,0.1435,8420.6015,21.9,15.6,"R>=4, F<=2"
+Needs Attention,63434,32.0,2.0,2.0298,0.1253,0.1815,11511.7264,23.7,21.4,Everyone else
+At Risk,6867,58.0,3.0,3.0146,0.1813,0.2308,1585.2335,2.6,2.9,"R<=2, F>=3"
+Lost,94796,71.0,1.0,1.2236,0.0678,0.1031,9774.9283,35.4,18.2,"R<=2, F<=2"

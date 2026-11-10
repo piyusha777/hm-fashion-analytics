@@ -1,0 +1,51 @@
+product_group_name,price_quintile,article_count,avg_units_sold,median_units_sold,avg_price_scaled
+Accessories,1,359,55.4262,27.0,0.0056
+Accessories,2,359,48.7939,37.0,0.0092
+Accessories,3,358,52.2961,33.0,0.0126
+Accessories,4,359,49.0836,28.0,0.0161
+Accessories,5,359,54.6295,31.0,0.0308
+Garment Full body,1,561,94.3779,41.0,0.0146
+Garment Full body,2,561,108.6542,52.0,0.0234
+Garment Full body,3,560,116.3964,59.5,0.0308
+Garment Full body,4,561,92.5169,51.0,0.0414
+Garment Full body,5,561,59.2656,38.0,0.0682
+Garment Lower body,1,777,99.1532,36.0,0.014
+Garment Lower body,2,776,128.0451,51.0,0.0225
+Garment Lower body,3,776,122.6353,60.0,0.0305
+Garment Lower body,4,776,111.0361,50.5,0.0387
+Garment Lower body,5,776,92.7255,52.0,0.0613
+Garment Upper body,1,1364,130.0191,46.0,0.0099
+Garment Upper body,2,1364,125.9362,59.5,0.0159
+Garment Upper body,3,1364,100.522,45.0,0.0229
+Garment Upper body,4,1364,93.7412,43.0,0.0327
+Garment Upper body,5,1364,75.893,35.0,0.0678
+Nightwear,1,37,60.5946,28.0,0.0137
+Nightwear,2,36,79.2222,38.5,0.0207
+Nightwear,3,37,133.4324,90.0,0.0247
+Nightwear,4,36,72.9722,48.5,0.0309
+Nightwear,5,37,89.7568,72.0,0.0426
+Shoes,1,131,68.4656,42.0,0.0126
+Shoes,2,131,75.4046,41.0,0.0221
+Shoes,3,131,68.0305,37.0,0.0299
+Shoes,4,131,50.5954,33.0,0.043
+Shoes,5,131,54.5725,35.0,0.0707
+Socks & Tights,1,87,71.5057,65.0,0.0031
+Socks & Tights,2,86,50.593,42.0,0.0043
+Socks & Tights,3,86,97.1047,40.5,0.0097
+Socks & Tights,4,86,152.2907,49.0,0.0139
+Socks & Tights,5,87,55.2989,37.0,0.0187
+Swimwear,1,202,67.1139,26.5,0.0078
+Swimwear,2,201,92.3831,45.0,0.0129
+Swimwear,3,202,254.099,151.0,0.0163
+Swimwear,4,201,234.9104,160.0,0.0221
+Swimwear,5,202,273.2129,164.0,0.0335
+Underwear,1,258,77.0504,34.0,0.0108
+Underwear,2,258,164.0426,97.5,0.0162
+Underwear,3,257,122.9883,62.0,0.0205
+Underwear,4,258,142.593,89.0,0.0253
+Underwear,5,258,120.5504,63.0,0.0356
+Unknown,1,19,140.7368,101.0,0.0145
+Unknown,2,18,230.3889,151.5,0.0238
+Unknown,3,18,203.3889,163.0,0.0264
+Unknown,4,18,345.1111,211.5,0.033
+Unknown,5,18,228.0,119.5,0.0546

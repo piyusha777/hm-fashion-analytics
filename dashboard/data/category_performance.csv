@@ -1,0 +1,19 @@
+product_group_name,units_sold,relative_revenue_scaled,avg_price_scaled,units_rank,revenue_rank,rank_gap,meets_1000_unit_threshold,pct_of_units,pct_of_revenue
+Garment Upper body,740054,18897.84934,0.02554,1,1,0,True,36.47,35.11
+Garment Lower body,441855,14157.99575,0.03204,2,2,0,True,21.77,26.3
+Garment Full body,272229,8704.64088,0.03198,3,3,0,True,13.41,16.17
+Swimwear,187855,3974.44025,0.02116,4,4,0,True,9.26,7.38
+Underwear,164489,3596.26007,0.02186,5,5,0,True,8.11,6.68
+Shoes,44458,1482.73714,0.03335,7,6,1,True,2.19,2.75
+Accessories,99723,1456.90569,0.01461,6,7,-1,True,4.91,2.71
+Unknown,20882,638.95808,0.0306,9,8,1,True,1.03,1.19
+Nightwear,17108,464.36739,0.02714,10,9,1,True,0.84,0.86
+Socks & Tights,38232,394.67595,0.01032,8,10,-2,True,1.88,0.73
+Bags,1238,40.7588,0.03292,11,11,0,True,0.06,0.08
+Items,1073,12.14012,0.01131,12,12,0,True,0.05,0.02
+Garment and Shoe care,23,0.61508,0.02674,15,13,2,False,0.0,0.0
+Underwear/nightwear,11,0.35725,0.03248,16,14,2,False,0.0,0.0
+Cosmetic,42,0.28941,0.00689,14,15,-1,False,0.0,0.0
+Furniture,7,0.19298,0.02757,17,16,1,False,0.0,0.0
+Stationery,44,0.14573,0.00331,13,17,-4,False,0.0,0.0
+Fun,2,0.01929,0.00964,18,18,0,False,0.0,0.0

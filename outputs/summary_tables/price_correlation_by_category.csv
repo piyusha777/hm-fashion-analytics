@@ -1,0 +1,11 @@
+product_group_name,n_articles,pearson_r,pearson_p,spearman_r,spearman_p
+Socks & Tights,432,0.026,0.5893,-0.143,0.003
+Garment Upper body,6820,-0.106,0.0,-0.075,0.0
+Shoes,655,-0.081,0.0391,-0.062,0.1106
+Garment Full body,2804,-0.127,0.0,-0.044,0.0196
+Accessories,1794,-0.02,0.4002,-0.013,0.5955
+Unknown,91,0.016,0.8832,0.048,0.6485
+Garment Lower body,3881,-0.039,0.0162,0.071,0.0
+Underwear,1289,0.023,0.4135,0.109,0.0001
+Nightwear,183,0.077,0.2993,0.218,0.003
+Swimwear,1008,0.208,0.0,0.406,0.0
